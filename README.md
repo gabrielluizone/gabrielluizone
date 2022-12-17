@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá eu sou o Gabriel Luiz e estudo <strong>Data Science</strong> na Fatec.<br>
-  Bem vindo(a) ao meu GitHub :D, não tem muita coisa aqui, ainda estou evoluindo.
+  Bem vindo(a) ao meu GitHub :D, não tem muita coisa aqui pois ainda estou evoluindo no ramo.
 </p>
 
 <p align="left">
