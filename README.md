@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Meus meuios de contatos :D ⤵️
+  💌 Aqui estão meus meios de comunicação futurista revolucionário atualizado 2023 :D ⤵️
 </p>
 
 <p align="left">
