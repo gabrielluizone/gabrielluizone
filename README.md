@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  👨‍💻 Linguagens: <strong>Phyton, R, SQL</strong>
+  💻 Linguagens: <strong>Phyton, R, SQL</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Tableau, Planilhas, Canva</strong>
+  🛠️ Ferramentas: <strong>Tableau, Planilhas, Canva</strong>
 </p>
 
 <p align="left">
-  💌 Aqui estão meus meios de comunicação futurista revolucionário atualizado 2023 :D ⤵️
+  ✉️ Aqui estão meus meios de comunicação futurista revolucionário atualizado 2023 :D ⤵️
 </p>
 
 <p align="left">
