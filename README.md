@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://comunidadeds.com/wp-content/uploads/2022/09/foto-pc-768x684.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Olá eu sou o Gabriel Luiz e estudo <strong>Data Science</strong> na Fatec.<br>
