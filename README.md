@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: <strong>Tableau, Planilhas, Canva</strong>
+  🛠️ Ferramentas: <strong>Tableau, Planilhas, e outros</strong>
 </p>
 
 <p align="left">
