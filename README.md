@@ -1,4 +1,4 @@
-<img src="![https://icon-library.com/images/free-books-icon/free-books-icon-25.jpg](https://icon-library.com/images/free-books-icon/free-books-icon-25.jpg)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://icon-library.com/images/free-books-icon/free-books-icon-25.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Olá eu sou o Gabriel Luiz e estudo <strong>Data Science</strong> na Fatec.<br>
