@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/04hOC58JMvcAAAAC/minimalist.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://media.tenor.com/04hOC58JMvcAAAAC/minimalist.gif" min-width="250px" max-width="250px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Olá eu sou o Gabriel Luiz e estudo <strong>Data Science</strong> na Fatec.<br>
