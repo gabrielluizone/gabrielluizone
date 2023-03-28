@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: <strong>Tableau, Planilhas, e outros</strong>
+  🛠️ Ferramentas: <strong>Tableau, Planilhas, RStudio, Jupyter etc.</strong>
 </p>
 
 <p align="left">
