@@ -3,6 +3,7 @@
 <p align="center">
     <b>Bem vindo a minha Página</b><br><br>
     <a>
+        <!-- https://yhype.me/github/profile-views -->
         Sou o Gabriel Luiz<br>
         Estudante de <a href="https://fatecrl.edu.br/cursos/ciencia-de-dados">Ciência de Dados</a> e <a href= "https://gabrielluizone.notion.site/Monitoria-a63bfe432c224921b0260ccb66a1f964">Monitor de Álgebra Linear</a> n<br>
         Faculdade de Tecnologia da Baizada Santista<br>
@@ -14,12 +15,12 @@
         <img src="https://img.shields.io/badge/Kaggle-404248?style=flat&logo=kaggle" alt="Kaggle">
     </a>
     <a href="mailto:gabrielluizone@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-404248?style=flat-&labelColor=404248&logo=gmail&logoColor=white&link=gabrielluizone" alt="Gmnail">
+        <img src="https://img.shields.io/badge/-Gmail-404248?style=flat-&labelColor=404248&logo=gmail&logoColor=white&link=gabrielluizgithub" alt="Gmnail">
     </a></br>
 </p>
 
 <p align="center">
   <a href="https://github.com/gabrielluizone">
-    <img src="https://komarev.com/ghpvc/?username=gleverds&color=0F31DB&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=gabrielluizonA&color=1C28C9&label=Número+de+Visitas&style=flat-square" />
   </a>
 </p>
