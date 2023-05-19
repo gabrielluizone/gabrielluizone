@@ -29,4 +29,10 @@
 
   <a href="https://www.instagram.com/gabrielluizone/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+</p>
+
+p align="center">
+  <a href="https://github.com/gabrielluizone">
+    <img src="https://komarev.com/ghpvc/?username=gabrielluizone&color=blue&style=flat)" />
+  </a>
+</p>
