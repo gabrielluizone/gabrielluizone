@@ -4,8 +4,8 @@
     <b>Bem vindo a minha Página</b><br><br>
     <a>
         Sou o Gabriel Luiz<br>
-        Estudante de <a href="https://fatecrl.edu.br/cursos/ciencia-de-dados">Ciência de Dados</a> e <a href= "https://gabrielluizone.notion.site/Monitoria-a63bfe432c224921b0260ccb66a1f964">Monitor de Álgebra Linear na</a><br>
-        na Faculdade de Tecnologia da Baizada Santista<br>
+        Estudante de <a href="https://fatecrl.edu.br/cursos/ciencia-de-dados">Ciência de Dados</a> e <a href= "https://gabrielluizone.notion.site/Monitoria-a63bfe432c224921b0260ccb66a1f964">Monitor de Álgebra Linear</a> n<br>
+        Faculdade de Tecnologia da Baizada Santista<br>
     </a>
     <a href="https://www.linkedin.com/in/gabrielluizone/">
         <img src="https://img.shields.io/badge/LinkedIn-404248?style=flat-&logo=linkedin" alt="LinkedIn">
