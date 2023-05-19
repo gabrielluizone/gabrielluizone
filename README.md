@@ -1,38 +1,25 @@
-<img src="https://media.tenor.com/04hOC58JMvcAAAAC/minimalist.gif" min-width="222px" max-width="222px" width="222px" align="right" alt="Computador iuriCode">
+<h1 align="center">Olá, One!<img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-<p align="left"> 
-  Olá eu sou o Gabriel Luiz e estudo <strong>Data Science</strong> na Fatec.<br>
-  Bem vindo(a) ao meu GitHub :D, não tem muita coisa aqui pois ainda estou evoluindo no ramo.
+<p align="center">
+    <b>Bem vindo a minha Página</b><br><br>
+    <a>
+        Sou o Gabriel Luiz<br>
+        Estudante de <a href="https://fatecrl.edu.br/cursos/ciencia-de-dados">Ciência de Dados</a> e <a href= "https://gabrielluizone.notion.site/Monitoria-a63bfe432c224921b0260ccb66a1f964">Monitor de Álgebra Linear na</a><br>
+        na Faculdade de Tecnologia da Baizada Santista<br>
+    </a>
+    <a href="https://www.linkedin.com/in/gabrielluizone/">
+        <img src="https://img.shields.io/badge/LinkedIn-404248?style=flat-&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://www.kaggle.com/datasets/gabrielluizone">
+        <img src="https://img.shields.io/badge/Kaggle-404248?style=flat&logo=kaggle" alt="Kaggle">
+    </a>
+    <a href="mailto:gabrielluizone@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-404248?style=flat-&labelColor=404248&logo=gmail&logoColor=white&link=gabrielluizone" alt="Gmnail">
+    </a></br>
 </p>
 
-<p align="left">
-  💻 Linguagens: <strong>Phyton, R, SQL</strong>
-</p>
-
-<p align="left">
-  🛠️ Ferramentas: <strong>Tableau, Planilhas, RStudio, Jupyter etc.</strong>
-</p>
-
-<p align="left">
-  ✉️ Aqui estão meus meios de comunicação futurista revolucionário atualizado 2023 :D ⤵️
-</p>
-
-<p align="left">
-  <a href="mailto:gabrielluizone@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="https://www.linkedin.com/in/gabrielluizone/" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="https://wa.me/5513997948338" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="https://www.instagram.com/gabrielluizone/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>
-
-p align="center">
+<p align="center">
   <a href="https://github.com/gabrielluizone">
-    <img src="https://komarev.com/ghpvc/?username=gabrielluizone&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=gleverds&color=0F31DB&style=flat)" />
   </a>
 </p>
