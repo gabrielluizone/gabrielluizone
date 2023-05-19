@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/Kaggle-404248?style=flat&logo=kaggle" alt="Kaggle">
     </a>
     <a href="mailto:gabrielluizone@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-404248?style=flat-&labelColor=404248&logo=gmail&logoColor=white&link=gabrielluizgitone" alt="Gmnail">
+        <img src="https://img.shields.io/badge/-Gmail-404248?style=flat-&labelColor=404248&logo=gmail&logoColor=white&link=gabrielluiztwo" alt="Gmnail">
     </a></br>
 </p>
 
