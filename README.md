@@ -21,6 +21,6 @@
 
 <p align="center">
   <a href="https://github.com/gabrielluizone">
-    <img src="https://komarev.com/ghpvc/?username=gabrielluizonA&color=1C28C9&label=Número+de+Visitas&style=flat-square" />
+    <img src="!https://komarev.com/ghpvc/?username=gabrielluizonA&color=1C28C9&label=Número+de+Visitas&style=flat-square" />
   </a>
 </p>
