@@ -15,7 +15,7 @@
     </a>
     <a href="mailto:gabrielluizone@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-404248?style=flat-&labelColor=404248&logo=gmail&logoColor=white&link=gabrielluiztwo" alt="Gmail">
-    </a><br>
+    </a><br><!--
      Portfólio <a href="https://gabrielluizone.github.io/">gabrielluizone.github.io</a></p>
 <!--
 <p align="center">
