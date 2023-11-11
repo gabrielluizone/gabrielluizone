@@ -12,7 +12,7 @@ $$\large \text{ $\mathbb{F}$aculdade de $\mathbb{T}$ecnologia da $\mathbb{B}$aix
     <a href="https://www.linkedin.com/in/gabrielluizone/">
         <img src="https://img.shields.io/badge/LinkedIn-404248?style=flat-&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.kaggle.com/datasets/gabrielluizone">
+    <a href="https://www.kaggle.com/gabrielluizone">
         <img src="https://img.shields.io/badge/Kaggle-404248?style=flat&logo=kaggle" alt="Kaggle">
     </a>
     <a href="mailto:gabrielluizone@gmail.com">
