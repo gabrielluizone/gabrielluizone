@@ -2,8 +2,10 @@
 
 <p align="center">
     <b>Bem-vindo ao meu Github</b><br><br>
-    Meu nome é Gabriel Luiz, sou estudante em<br>
-    <a href="https://fatecrl.edu.br/cursos/ciencia-de-dados">Data Science</a> e <a href="https://gabrielluizone.notion.site/Monitoria-a63bfe432c224921b0260ccb66a1f964">Monitor de Álgebra Linear</a> e <a href="https://gabrielluizone.notion.site/C-lculo-Diferencial-e-Integral-b50ab6469ca843ea89293705a9a9baf0?pvs=4">Cálculo</a><br>
+    Meu nome é Gabriel Luiz</br>sou estudante em
+    <a href="https://fatecrl.edu.br/cursos/ciencia-de-dados">Data Science & Analytics</a>
+    
+<!-- <a href="https://gabrielluizone.notion.site/Monitoria-a63bfe432c224921b0260ccb66a1f964">Monitor de Álgebra Linear</a> e <a href="https://gabrielluizone.notion.site/C-lculo-Diferencial-e-Integral-b50ab6469ca843ea89293705a9a9baf0?pvs=4">Cálculo</a><br> -->
     
 $$\large \text{ $\mathbb{F}$aculdade de $\mathbb{T}$ecnologia da $\mathbb{B}$aixada $\mathbb{S}$antista - $\mathbb{R}$ubens $\mathbb{L}$ara}$$</p>
 
