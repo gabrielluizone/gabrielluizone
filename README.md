@@ -20,7 +20,7 @@ $$\large \text{ $\mathbb{F}$aculdade de $\mathbb{T}$ecnologia da $\mathbb{B}$aix
     <a href="mailto:gabrielluizone@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-404248?style=flat-&labelColor=404248&logo=gmail&logoColor=white&link=gabrielluiztwo" alt="Gmail">
     </a><br><!--
-     Portfólio <a href="https://gabrielluizone.github.io/">gabrielluizone.github.io</a></p> -->
+     Portfólio <a href="https://gabrielluizone.github.io/">gabrielluizone.github.io</a></p>
 
 <p align="center">
   <a href="https://github.com/gabrielluizone">
@@ -28,3 +28,4 @@ $$\large \text{ $\mathbb{F}$aculdade de $\mathbb{T}$ecnologia da $\mathbb{B}$aix
   </a>
 </p>
 
+-->
