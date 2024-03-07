@@ -20,11 +20,11 @@ $$\large \text{ $\mathbb{F}$aculdade de $\mathbb{T}$ecnologia da $\mathbb{B}$aix
     <a href="mailto:gabrielluizone@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-404248?style=flat-&labelColor=404248&logo=gmail&logoColor=white&link=gabrielluiztwo" alt="Gmail">
     </a><br><!--
-     Portfólio <a href="https://gabrielluizone.github.io/">gabrielluizone.github.io</a></p>
-<!--
+     Portfólio <a href="https://gabrielluizone.github.io/">gabrielluizone.github.io</a></p> -->
+
 <p align="center">
   <a href="https://github.com/gabrielluizone">
-    <img src="https://komarev.com/ghpvc/?username=43a031cfc0fe194138acad7c26679783&color=2f354f&label=Número+de+Visitas&style=flat-square" alt="Número de Visitas">
+    <img src="https://komarev.com/ghpvc/?username=Skaftell&color=2f354f&label=:D&style=flat-square" alt="Número de Visitas">
   </a>
 </p>
--->
+
